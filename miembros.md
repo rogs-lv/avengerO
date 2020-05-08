@@ -16,4 +16,5 @@
 * Vision
 * Wasp
 * Antman
+* Nick Fury
 * Capitán America
